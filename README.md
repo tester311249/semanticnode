@@ -7,3 +7,4 @@ Create an npm token and to set it in the NPM_TOKEN environment variable:
 ```bash 
 sh test/ci/set_token.sh
 ```
+``I am testing this``
