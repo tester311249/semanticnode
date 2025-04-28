@@ -19,7 +19,7 @@
       "path": "./node_modules/cz-conventional-changelog"
     },
     "semantic-release": {
-      "path": "./.releaserc.json"
+      "path": "./node_modules/semantic-release"
     }
   },
   "repository": {
