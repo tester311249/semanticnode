@@ -17,6 +17,9 @@
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
+    },
+    "semantic-release": {
+      "path": "./.releaserc.json"
     }
   },
   "repository": {
