@@ -1,7 +1,11 @@
 {
   "name": "semanticnode",
-  "version": "1.4.0",
+  "version": "0.0.0-development",
   "description": "Changelog Automation",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "semanticnode"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
