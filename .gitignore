@@ -1,0 +1,8 @@
+# Ignore all dotfiles
+.*
+
+# Allow specific dotfiles (e.g., .gitignore)
+!.gitignore
+
+# Ignore node_modules (already handled)
+node_modules/
