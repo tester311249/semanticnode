@@ -1,10 +1,10 @@
 {
-  "name": "semanticnode",
+  "name": "semantic-release",
   "version": "1.4.0",
   "description": "Changelog Automation",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "semanticnode"
+    "release": "semantic-release --branches main",
   },
   "author": "",
   "license": "ISC",
