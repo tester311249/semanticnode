@@ -2,11 +2,6 @@
   "name": "semanticnodetest",
   "version": "0.0.0-development",
   "description": "Changelog Automation",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "semanticnodetest"
-  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
