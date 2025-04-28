@@ -4,7 +4,7 @@
   "description": "Changelog Automation",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "semantic-release --branches main",
+    "release": "semantic-release --branches main"
   },
   "author": "",
   "license": "ISC",
