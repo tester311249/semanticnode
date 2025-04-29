@@ -1,15 +1,16 @@
 {
-  "name": "semantic-release",
-  "version": "1.4.0",
+  "name": "semantictest",
+  "version": "v0.0.0",
   "description": "Changelog Automation",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "semantic-release --branches main"
+    "release": "npx semantic-release --branches main"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
     "@semantic-release/npm": "^12.0.1",
     "conventional-changelog-conventionalcommits": "^8.0.0",
     "cz-conventional-changelog": "^3.3.0",
@@ -25,6 +26,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tester311249/semanticnode.git"
+    "url": "https://github.com/tester311249/semantictest.git"
   }
 }
