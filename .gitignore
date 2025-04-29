@@ -1,5 +1,3 @@
-# Ignore all dotfiles
-.*
 
 # Allow specific dotfiles (e.g., .gitignore)
 !.gitignore
